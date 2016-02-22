@@ -84,7 +84,8 @@ class Schema extends Base
      */
     public function getName()
     {
-        return $this->name;
+//        return $this->name;
+        return 'default';
     }
 
     /**
