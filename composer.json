@@ -1,5 +1,5 @@
 {
-	"name" : "mysql-workbench-schema-exporter/mysql-workbench-schema-exporter",
+	"name" : "vasil-picasse/mysql-workbench-schema-exporter",
 	"type" : "library",
 	"description" : "MySQL Workbench Schema Exporter",
 	"keywords" : [
@@ -13,7 +13,7 @@
 		"zend",
 		"sequelizejs"
 	],
-	"homepage" : "https://github.com/mysql-workbench-schema-exporter/mysql-workbench-schema-exporter",
+	"homepage" : "https://github.com/vasil-picasse/mysql-workbench-schema-exporter",
 	"license" : "MIT",
 	"authors" : [{
 			"name" : "Johannes Mueller",
